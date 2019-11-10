@@ -1,3 +1,13 @@
+## Instalação
+
+```bash
+yarn install
+```
+
+```bash
+yarn start
+```
+
 ### Tecnologia
 Projeto desenvolvido em React.
 
